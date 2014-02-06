@@ -9,7 +9,7 @@
 
 .dombo-Test--14a .dombo-Test-icon--spinner:before {
     content: "\e600";
-	*zoom: expression(this.runtimeStyle.zoom="1", this.innerHTML = "&#xe600;");
+    *zoom: expression(this.runtimeStyle.zoom="1", this.innerHTML = "&#xe600;");
     *zoom: 1;
 }
 
